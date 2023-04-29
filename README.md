@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**scottykaye/scottykaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Scott Kaye, I currently work at [Wayfair](wayfair.com) as a Frontend engineer on their Storefront platform team.
 
-Here are some ideas to get you started:
+Currently interested in
+- Learning Rust
+- Creating easily themeable UI
+- Learning more about systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like
+- Powerlift
+- Build keyboards
+- Watch the Mandalorian 
+
