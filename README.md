@@ -3,10 +3,9 @@
 I am Scott Kaye, I currently work at [Wayfair](wayfair.com) as a Frontend engineer on their Storefront platform team.
 
 Currently interested in:
-- Learning Rust
-- Learning more about systems
+- Learning Go
 - Learning modern UI techniques
-- Creating easily themeable UI
+- Big fan of Vanilla Extract CSS and lately been building with Tailwind CSS
 
 In my free time I:
 - Powerlift
