@@ -1,6 +1,6 @@
 ### Hi there 😃😵‍💫
 
-I am Scott Kaye, I currently work at [Wayfair](wayfair.com) as a Frontend engineer on their Storefront platform team.
+I'm Scott 👋, I currently work at [Wayfair](wayfair.com) as a Frontend engineer on their Storefront platform team.
 
 Currently interested in:
 - Learning Go
