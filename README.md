@@ -1,14 +1,12 @@
 ### Hi there 😃😵‍💫
 
-I'm Scott 👋, I currently work at [Wayfair](wayfair.com) as a Frontend engineer on their Storefront platform team.
+I'm Scott 👋, I am a Staff Frontend engineer
 
 Currently interested in:
 - Learning Go
-- Learning modern UI techniques
-- Big fan of Vanilla Extract CSS and lately been building with Tailwind CSS
+- UI, Accessibility, React, Next.js, Tailwind, Vanilla Extract, Golang
 
 In my free time I:
 - Powerlift
 - Build keyboards
-- Watch the Mandalorian 
 
