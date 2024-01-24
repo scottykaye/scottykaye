@@ -15,14 +15,3 @@ Currently interested in:
 In my free time I:
 - Powerlift
 - Build keyboards
-
-Some companys/products I endorse, love to use and believe in:
-- Apple
-- Netflix
-- Spotify
-- Vercel
-- The Browser Company
-- Google
-- Github
-- Discord
-- Notion
