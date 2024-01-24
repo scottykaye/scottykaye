@@ -16,7 +16,7 @@ In my free time I:
 - Powerlift
 - Build keyboards
 
-Some Companys/Products I endorse, love to use and believe in:
+Some companys/products I endorse, love to use and believe in:
 - Apple
 - Netflix
 - Spotify
