@@ -15,3 +15,6 @@ Currently interested in:
 In my free time I:
 - Powerlift
 - Build keyboards
+
+
+![Gameboy Logo](gameboy.jpg)
