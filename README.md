@@ -1,4 +1,4 @@
-### Hi there 😃😵‍💫
+# Hi there 😃 😵‍💫
 
 I'm Scott 👋, I am a Staff Frontend Engineer
 
@@ -8,11 +8,11 @@ I believe in the AHA principles _(Avoid Hasty Abstractions)_, code simplicity an
 
 
 
-Currently interested in:
+### Currently interested in
 - Learning Go
 - UI, Accessibility, React, Next.js, Tailwind, Vanilla Extract, Golang
 
-In my free time I:
+### In my free time I
 - Powerlift
 - Build keyboards
 
