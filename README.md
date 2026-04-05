@@ -1,20 +1,9 @@
-### Hi there 😃😵‍💫
+# Scott Kaye
 
-I'm Scott 👋, I am a Staff Frontend Engineer
+Software Engineer with a Graphic Design background.
+Frontend, UI, Neovim, Powerlifting.
 
-I started my career strong in CSS and HTML. I grew to learn JavaScript and React. Today I am a well rounded frontend engineer. I am an advocate for Next.js, Tailwind, Vanilla Extract and TypeScript.
+- 🔧 My [dotfiles](https://github.com/scottykaye/dotfiles)
+- 🌐 [scottykaye.com](https://scottykaye.com)
 
-I believe in the AHA principles _(Avoid Hasty Abstractions)_, code simplicity and leveraging for free what the browser gives you.
-
-
-
-Currently interested in:
-- Learning Go
-- UI, Accessibility, React, Next.js, Tailwind, Vanilla Extract, Golang
-
-In my free time I:
-- Powerlift
-- Build keyboards
-
-
-![Gameboy Logo](gameboy.jpg)
+![Scott Kaye](headshot.jpg)
